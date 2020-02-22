@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b11a34e7.chunk.css",
+    "main.js": "/static/js/main.857055a7.chunk.js",
+    "main.js.map": "/static/js/main.857055a7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.26f28ca5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.26f28ca5.js.map",
+    "static/js/2.8462d3b0.chunk.js": "/static/js/2.8462d3b0.chunk.js",
+    "static/js/2.8462d3b0.chunk.js.map": "/static/js/2.8462d3b0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ae76bdb75a40ac2ddcc1a281388bce9.js": "/precache-manifest.3ae76bdb75a40ac2ddcc1a281388bce9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b11a34e7.chunk.css.map": "/static/css/main.b11a34e7.chunk.css.map",
+    "static/js/2.8462d3b0.chunk.js.LICENSE.txt": "/static/js/2.8462d3b0.chunk.js.LICENSE.txt",
+    "static/media/batteries.svg": "/static/media/batteries.82b5db1c.svg",
+    "static/media/logo.svg": "/static/media/logo.a2995f53.svg",
+    "static/media/paper_towel.svg": "/static/media/paper_towel.69c324f4.svg",
+    "static/media/razor.svg": "/static/media/razor.37f16ccc.svg",
+    "static/media/soap.svg": "/static/media/soap.8b6e135f.svg",
+    "static/media/socks.svg": "/static/media/socks.e7e71606.svg",
+    "static/media/toilet_paper.svg": "/static/media/toilet_paper.a4bfccc4.svg",
+    "static/media/tshirt.svg": "/static/media/tshirt.acc4adb1.svg",
+    "static/media/underwear.svg": "/static/media/underwear.3702f064.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f28ca5.js",
+    "static/js/2.8462d3b0.chunk.js",
+    "static/css/main.b11a34e7.chunk.css",
+    "static/js/main.857055a7.chunk.js"
+  ]
+}
